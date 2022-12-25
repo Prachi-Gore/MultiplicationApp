@@ -14,3 +14,4 @@ after some time realised that I should run it on browser
 
 
 website : https://prachi-gore.github.io/MultiplicationApp/
+website : https://63a7f27e68ae890b3ea364de--imaginative-treacle-aed121.netlify.app/?
